@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: #5a5a5a;
+}
+
+img{
+    cursor: pointer;
+}
+
+.nav_bar{
+    display: flex;
+    align-items: center;
+}
+
+nav{
+    padding: 10px 2%;
+    justify-content: space-between;
+    box-shadow: 0 0 10px rgba(0 , 0 , 0 , 0.2);
+    background: #fff;
+    position: static;
+    top: 0;
+    z-index: 10;
+}
+
+.nav_right img{
+    width: 25px;
+    margin-right: 25px;
+}
+
+.nav_left img{
+    width: 25px;
+    margin-right: 25px;
+}
+
+.nav_right .user-icon{
+    width: 35px;
+    border-radius: 50%;
+    margin-right: 0;
+}

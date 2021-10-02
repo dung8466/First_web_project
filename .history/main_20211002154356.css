@@ -1,0 +1,12 @@
+.utube_icon{
+    display: inline-block;
+    margin: 10px 10px 5px 5px;
+    background-color: black;
+}
+
+.top input[type=text]{
+    float: center;
+    display: inline-block;
+    margin: 5 5 5 5;
+    background-color: black;
+}
