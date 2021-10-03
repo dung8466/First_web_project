@@ -447,12 +447,4 @@ nav{
     .play-container{
         padding-left: 5%;
     }
-    .video-description{
-        padding-left: 0;
-    }
-    .play-video .play-video-info a{
-        margin-left: 0px;
-        margin-right: 15px;
-        margin-top: 15px;
-    }
 }
